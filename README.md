@@ -1,4 +1,4 @@
-[![show-directory](https://github.com/v-semyashkina/hexlet-ci-app/actions/workflows/my-second-worflow.yml/badge.svg)](https://github.com/v-semyashkina/hexlet-ci-app/actions/workflows/my-second-worflow.yml)
+[![Node CI](https://github.com/v-semyashkina/hexlet-ci-app/actions/workflows/my-second-worflow.yml/badge.svg)](https://github.com/v-semyashkina/hexlet-ci-app/actions/workflows/my-second-worflow.yml)
 
 # Example app for CI Hexlet course
 
